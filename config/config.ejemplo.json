@@ -1,0 +1,8 @@
+{
+    "TOKEN": "TOKEN DEL BOT",
+    "MENSAJES_MINIMOS": 5, 
+    "MENSAJES_MAXIMOS": 10,
+    "DB_URL": "MONGODB URL",
+    "PREFIX": "PREFIX"
+  }
+  

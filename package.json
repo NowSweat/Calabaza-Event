@@ -1,0 +1,23 @@
+{
+  "name": "calabaza-event",
+  "version": "1.0.0",
+  "description": "Calabaza event es un bot que imita a PokeTwo pero con calabazas, fue creado para Shojo Place, el código es libre y pueden cambiarle lo que quieran, no es una imitación al 100%.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "NowSweat",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "events": "^3.3.0",
+    "fs": "^0.0.1-security",
+    "mongoose": "^7.3.0",
+    "util": "^0.12.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}

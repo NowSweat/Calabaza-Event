@@ -1,0 +1,20 @@
+{
+  "imagenes": [
+    {
+      "enlaceImagen": "ENLACE DE LA IMAGEN",
+      "descripcionImagen": "DESCRIPCIÓN",
+      "calabazaID": "NOMBRE (EN MINUSCULA)",
+      "tipo": "TIPOS",
+      "probabilidad": 30,
+      "region": "REGION"
+    },
+    {
+      "enlaceImagen": "ENLACE DE LA IMAGEN",
+      "descripcionImagen": "DESCRIPCIÓN",
+      "calabazaID": "NOMBRE (EN MINUSCULA)",
+      "tipo": "TIPOS",
+      "probabilidad": 30,
+      "region": "REGION"
+    }
+  ]
+}
